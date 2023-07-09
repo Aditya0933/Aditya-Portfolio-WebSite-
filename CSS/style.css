@@ -470,6 +470,14 @@ hr {
     .skill-div p {
         font-size: 18px;
     }
+    .leftside p {
+        text-align: center;
+        padding: 4% 0 6% 0;
+    }
+    .leftside h2 {
+        text-align: center;
+        font-size: 18px;
+    }
 }
 @media(max-width:650px){
     .About .about-content {
@@ -647,5 +655,13 @@ hr {
     .content-paragraph {
         line-height: 1.4;
         padding-bottom: 5px;
+    }
+}
+@media(max-width:322px){
+    .home-content .text2 {
+        font-size: 24px;
+    }
+    .home-content .text3 {
+        font-size: 19px;
     }
 }
