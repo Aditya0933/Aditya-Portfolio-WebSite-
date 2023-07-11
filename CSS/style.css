@@ -66,6 +66,7 @@
     width: 100%;
     padding: 20px 5%;
     background: rgb(255, 255, 255);
+    z-index: 50;
 
 }
 
